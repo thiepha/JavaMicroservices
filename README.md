@@ -7,5 +7,6 @@ Microservices with java:
 - Limit Service: Limit sample microservices, retrieves another git repos to get data
   http://localhost:8080/limits
 - Git Local Config: Stores configs for Limit Service
+- Naming Service: Eureka: http://localhost:8761/
 
 h2 db: http://localhost:8000/h2-console/
